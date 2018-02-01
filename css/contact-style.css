@@ -1,0 +1,123 @@
+
+body {
+    margin: 0 auto;
+}
+#blank-1 {
+    height: 200px;
+}
+h2 {
+    text-align: center;
+    font-size: 25pt;
+    color: white;
+    font-family: cursive;
+}
+#trans {
+    height: 600px;
+    background-color:rgba(0, 0, 0, 0.40); 
+}
+#header {
+    height: 80px;
+    background-color: #011222;
+    color: rgba(255,255,255,0.75);
+    position: fixed;
+    width: 100%;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    float: left;
+    line-height: 100px;
+    margin-top: -99px;
+    margin-left: 80px;
+}
+ul li a {
+    display: block;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial;
+    color: #ffffff;
+    padding: 0px;
+}
+
+#main-content {
+    height: 2000px;
+}
+#footer {
+    background-color: #011222;
+    height: 250px;
+    text-align: center;
+    color: white;
+    font-size: 17pt;
+}
+#bs {
+    height: 100px;
+}
+#contact {
+    float: right;
+    margin-right: 50px;
+}
+h3 {
+	text-align:center;
+	font-size: 27pt;
+}
+#another-bs {
+    height:100px;
+}
+#logo {
+    margin-left: 10px;
+}
+.btn1 {
+    background-color: #ff5842;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+body {
+    background-image: url(img/contact-bg.png);
+    width: 100%;
+    height: 100%;
+}
+#contact-us {
+    width:400px;
+    margin: 0 auto;
+    background-color: #55fc95;
+    border-radius: 25px;
+    padding: 20px; 
+}
+#contact-bs {
+    height: 200px;
+}
+#form {
+    text-align: center;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+#bs-3 {
+    height:50px;
+}
+#content {
+    height: 500px;
+}
+input[type=text],input[type=email], textarea{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+  margin-bottom: 15px;
+}
+h1 {
+    text-align: center;
+    font-family: monospace;
+    font-size: 20pt;
+}
+p {
+    text-align: center;
+    font-family: cursive;
+}
