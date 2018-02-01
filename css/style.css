@@ -83,11 +83,24 @@ h3 {
     background-color:grey;
 }
 #content {
-    height:600px;
+    height:500px;
+    background-image: url(img/info-bg.png);
 }
 #another-bs {
     height:100px;
+    background-image: url(img/info-bg.png);
 }
 #logo {
     margin-left: 10px;
+}
+#question {
+    text-align: center;
+    font-size: 28pt;
+    font-family: monospace;
+}
+#answer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20pt;
+    font-family: cursive;
 }
