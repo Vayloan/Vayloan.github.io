@@ -84,9 +84,10 @@ body {
 #contact-us {
     width:400px;
     margin: 0 auto;
-    background-color: #55fc95;
+    background-color: #011222;
     border-radius: 25px;
-    padding: 20px; 
+    padding: 20px;
+    color: white;
 }
 #contact-bs {
     height: 200px;
