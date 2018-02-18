@@ -98,30 +98,31 @@ h3 {
     font-family: cursive;
 }
 #why {
-    margin-top: 40px;
-    margin-left: 320px;
-    font-size: 22pt;
-    margin-right: 320px;
+    width:750px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 20pt;
+    margin-top: 50px;
+    text-align: justify;
     
 }
 #check-text-1 {
-    float: right;  
-    margin-right:100px;
-    margin-top: 5px;
+    margin-right: 40px;
+    float: right;
+    margin-top: 7px;
 }
 #check-text-2 {
     float: right;
-    margin-right:143px;
-    margin-top: 5px;
+    margin-top: 7px;
 }
 #check-text-3 {
     float: right;
-    margin-right:97px;
-    margin-top: 5px;
+    margin-right: 43px;
+    margin-top: 7px;
 }
 #check-text-4 {
+    margin-right: 20px;
     float: right;   
-    margin-right:70px;
-    margin-top: 5px;
+    margin-top: 7px;
 }
 
