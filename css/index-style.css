@@ -50,9 +50,6 @@ ul li a {
     padding: 0px;
 }
 
-#main-content {
-    height: 2500px;
-}
 #footer {
     background-color: #011222;
     height: 250px;
@@ -78,12 +75,8 @@ h3 {
 #bs-2 {
     height: 30px;
 }
-#gallery {
-    height: 699px;
-    background-color:grey;
-}
 #content {
-    height:500px;
+    height:655px;
     background-image: url(img/info-bg.png);
 }
 #another-bs {
@@ -104,3 +97,31 @@ h3 {
     font-size: 20pt;
     font-family: cursive;
 }
+#why {
+    margin-top: 40px;
+    margin-left: 320px;
+    font-size: 22pt;
+    margin-right: 320px;
+    
+}
+#check-text-1 {
+    float: right;  
+    margin-right:100px;
+    margin-top: 5px;
+}
+#check-text-2 {
+    float: right;
+    margin-right:143px;
+    margin-top: 5px;
+}
+#check-text-3 {
+    float: right;
+    margin-right:97px;
+    margin-top: 5px;
+}
+#check-text-4 {
+    float: right;   
+    margin-right:70px;
+    margin-top: 5px;
+}
+

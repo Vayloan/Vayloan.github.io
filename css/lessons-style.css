@@ -31,9 +31,6 @@ ul li a {
     padding: 0px;
 }
 
-#main-content {
-    height: 2000px;
-}
 #footer {
     background-color: #011222;
     height: 250px;
@@ -67,4 +64,14 @@ h3 {
 }
 #logo {
     margin-left: 10px;
+}
+#another-bs {
+    height: 300px;
+}
+#basics {
+    margin-left: 100px;
+    width: 400px;
+    height:200px;
+    background-color:green;
+    color: white;
 }
