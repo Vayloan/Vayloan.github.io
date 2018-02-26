@@ -77,11 +77,11 @@ h3 {
 }
 #content {
     height:655px;
-    background-image: url(img/info-bg.png);
+    background-image: url(img/contact-bg.png);
 }
 #another-bs {
     height:100px;
-    background-image: url(img/info-bg.png);
+    background-image: url(img/contact-bg.png);
 }
 #logo {
     margin-left: 10px;
@@ -108,6 +108,7 @@ h3 {
     float: right;  
     margin-right:100px;
     margin-top: 5px;
+    
 }
 #check-text-2 {
     float: right;
