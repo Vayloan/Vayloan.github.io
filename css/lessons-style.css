@@ -66,12 +66,76 @@ h3 {
     margin-left: 10px;
 }
 #another-bs {
-    height: 300px;
+    height: 230px;
 }
 #basics {
+    text-align: center;
+    height: 220px;
+    width:300px;
+    background-image: url(img/basics.png);
+    background-size: 300px 200px;
     margin-left: 100px;
-    width: 400px;
-    height:200px;
-    background-color:green;
     color: white;
+    font-size: 15pt;
+    float: left;
+    border-radius: 25px;
+    font-family: fantasy;
+    
+}
+#android {
+    text-align: center;
+    height: 220px;
+    width:300px;
+    background-image: url(img/android.png);
+    background-size: 300px 220px;
+    margin-left: 100px;
+    color: white;
+    font-size: 15pt;
+    float: left;
+    margin-left: 180px;
+    font-family: fantasy;
+    border-radius: 25px;
+    
+}
+#dekstop-apps {
+    text-align: center;
+    height: 220px;
+    width:300px;
+    background-image: url(img/dekstop.png);
+    background-size: 300px 220px;
+    margin-left: 100px;
+    color: white;
+    font-size: 15pt;
+    float: left;
+    margin-left: 180px;
+    font-family: fantasy;
+    border-radius: 25px;
+    
+}
+
+#bs-5 {
+    height:165px;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #3ab913;
+}
+
+a:active {
+    text-decoration: none;
+
+}
+#bs-6 {
+    height: 85px;
+}
+#bs-7 {
+    height: 52px;
 }
