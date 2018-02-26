@@ -125,3 +125,20 @@ p {
     text-align: center;
     font-family: cursive;
 }
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #3ab913;
+}
+
+a:active {
+    text-decoration: none;
+
+}
