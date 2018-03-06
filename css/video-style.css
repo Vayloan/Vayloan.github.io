@@ -1,31 +1,11 @@
-h1 {
-    text-align: center;
-    color: white;
-    font-size: 40pt;
-    font-family: sans-serif;
-}
-#header-desc {
-    background-image: url(img/header-bg.jpg);
-    height: 760px;
-    background-attachment: fixed;
-    background-size: cover;
-}
 body {
     margin: 0 auto;
 }
 #blank-1 {
-    height: 280px;
+    height: 200px;
 }
-h2 {
-    text-align: center;
-    font-size: 25pt;
-    color: white;
-    font-family: cursive;
-}
-#trans {
-    height: 760px;
-    background-color:rgba(0, 0, 0, 0.40); 
-}
+
+
 #header {
     height: 80px;
     background-color: #011222;
@@ -50,6 +30,9 @@ ul li a {
     padding: 0px;
 }
 
+#main-content {
+    height: 2000px;
+}
 #footer {
     background-color: #011222;
     height: 250px;
@@ -72,8 +55,9 @@ h3 {
 #bs-2 {
     height: 30px;
 }
+
 #content {
-    height:655px;
+    height:1100px;
     background-image: url(img/contact-bg.png);
 }
 #another-bs {
@@ -82,45 +66,6 @@ h3 {
 }
 #logo {
     margin-left: 10px;
-}
-#question {
-    text-align: center;
-    font-size: 28pt;
-    font-family: monospace;
-}
-#answer {
-    text-align: center;
-    margin-top: 30px;
-    font-size: 20pt;
-    font-family: cursive;
-}
-#why {
-    margin-top: 40px;
-    margin-left: 320px;
-    font-size: 22pt;
-    margin-right: 320px;
-    
-}
-#check-text-1 {
-    float: right;  
-    margin-right:100px;
-    margin-top: 5px;
-    
-}
-#check-text-2 {
-    float: right;
-    margin-right:143px;
-    margin-top: 5px;
-}
-#check-text-3 {
-    float: right;
-    margin-right:97px;
-    margin-top: 5px;
-}
-#check-text-4 {
-    float: right;   
-    margin-right:70px;
-    margin-top: 5px;
 }
 a:link {
     text-decoration: none;
@@ -139,4 +84,37 @@ a:active {
     text-decoration: none;
 
 }
-
+#bs-4 {
+    height:150px;
+}
+#video {
+    margin-left: 380px;
+}
+#github {
+    margin-left: 1200px;
+    margin-top: -40px;
+}
+#bs-5 {
+  
+}
+#desc {
+    height:350px;
+    margin-left: 300px;
+    margin-right:300px;
+    background-color:f5ffd3;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+}
+h9 {
+    margin-left:350px;
+    font-size: 30pt;
+    font-family: cursive;
+}
+#bs-6 {
+    height: 20px;
+}
+#desc-text {
+    margin-left: 50px;
+    font-size: 18pt;
+}
