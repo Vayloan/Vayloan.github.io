@@ -57,7 +57,7 @@ h3 {
 }
 
 #content {
-    height:650px;
+    height:950px;
     background-image: url(img/contact-bg.png);
 }
 #another-bs {
@@ -87,4 +87,25 @@ a:active {
 h9 {
     margin-top: 300px;
     text-align: center;
+}
+#exercises{
+	
+	text-align: center;
+}
+#bs-4 {
+	height: 140px;
+}
+#category-basics {
+	font-size: 25pt;
+	font-family: sans-serif;
+}
+#exercises-text {
+	width:80%;
+	margin-left: 30px;
+	font-size: 20pt;
+	text-align: left;
+	float: left;
+}
+#bs-5 {
+	height: 60px;
 }
