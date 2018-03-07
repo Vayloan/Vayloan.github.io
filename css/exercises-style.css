@@ -69,10 +69,12 @@ h3 {
 }
 a:link {
     text-decoration: none;
+	color: inherit;
 }
 
 a:visited {
     text-decoration: none;
+	color: inherit;
 }
 
 a:hover {
@@ -82,6 +84,7 @@ a:hover {
 
 a:active {
     text-decoration: none;
+	color: inherit;
 
 }
 h9 {
