@@ -33,7 +33,7 @@ h2 {
     position: fixed;
     width: 100%;
 }
-ul li {
+nav ul li {
     list-style: none;
     display: inline-block;
     float: left;
@@ -41,7 +41,7 @@ ul li {
     margin-top: -99px;
     margin-left: 80px;
 }
-ul li a {
+nav ul li a {
     display: block;
     text-decoration: none;
     font-size: 14px;
@@ -73,7 +73,6 @@ h3 {
     height: 30px;
 }
 #content {
-    height:655px;
     background-image: url(img/contact-bg.png);
 }
 #another-bs {
@@ -94,11 +93,13 @@ h3 {
     font-size: 20pt;
     font-family: cursive;
 }
+ 
 #why {
     margin-top: 40px;
-    margin-left: 20%;
+    margin-left: 22%;
     font-size: 22pt;
-    margin-right: 21.63%;
+    margin-right: 22%;
+    text-decoration: none;
     
 }
 #check-text-1 {
@@ -138,5 +139,18 @@ a:hover {
 a:active {
     text-decoration: none;
 
+}
+
+#why ul li:before {
+  content: '✓ ';
+    color: #1bcc1b;
+    font-size: 25pt;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+#why ul {
+    text-decoration: none;
+    list-style-type: none;
 }
 
