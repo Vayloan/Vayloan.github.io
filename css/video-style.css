@@ -98,16 +98,18 @@ a:active {
   
 }
 #desc {
-    height:350px;
-    margin-left: 330px;
-    margin-right:300px;
+    height:30%;
+    margin-left: 15%;
+    margin-right: 15%;
+    float: center;
     background-color:f5ffd3;
     border-radius: 10px;
     border-style: solid;
+    display:inline-block;
     border-width: 2px;
 }
 h9 {
-    margin-left:350px;
+    margin-left:40%;
     font-size: 30pt;
     font-family: cursive;
 }
@@ -115,6 +117,6 @@ h9 {
     height: 20px;
 }
 #desc-text {
-    margin-left: 50px;
+    margin-left: 10%;
     font-size: 18pt;
 }
