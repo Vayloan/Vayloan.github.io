@@ -140,7 +140,9 @@ a:active {
     text-decoration: none;
 
 }
-
+#another-bs-3 {
+    height: 40px;
+}
 #why ul li:before {
   content: '✓ ';
     color: #1bcc1b;

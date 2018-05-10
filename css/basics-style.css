@@ -95,96 +95,78 @@ a:active {
 #video-01 {
     margin-left: 100px;
     text-align: justify;
-    height: 135px;
+    height: 9%;
     border-style: solid;
     border-width: 3px;
-    width: 550px;
+    width: 40%;
     background-color:#f5ffd3;
     color: black;
     border-radius: 10px;
-    margin-left: 470px;
+    margin-left: 30%;
     margin-bottom: 50px;
     
 }
 #video-01-text {
-    margin-left: 140px;
-    margin-top: -80px;
+    margin-left: 20%;
+    margin-top: -14%;
     font-size: 20pt;
     border-color: black;
 }
 #video-02 {
     margin-left: 100px;
     text-align: justify;
-    height: 135px;
+    height: 9%;
     border-style: solid;
     border-width: 3px;
-    width: 550px;
+    width: 40%;
     background-color:#f5ffd3;
     color: black;
     border-radius: 10px;
-    margin-left: 470px;
+    margin-left: 30%;
     margin-bottom: 50px;
     
 }
 #video-02-text {
-    margin-left: 140px;
-    margin-top: -80px;
+    margin-left: 20%;
+    margin-top: -14%;
     font-size: 20pt;
     border-color: black;
 }
 #video-03 {
     margin-left: 100px;
     text-align: justify;
-    height: 135px;
+    height: 9%;
     border-style: solid;
     border-width: 3px;
-    width: 550px;
+    width: 40%;
     background-color:#f5ffd3;
     color: black;
     border-radius: 10px;
-    margin-left: 470px;
+    margin-left: 30%;
     margin-bottom: 50px;
     
 }
 #video-03-text {
-    margin-left: 140px;
-    margin-top: -80px;
+    margin-left: 20%;
+    margin-top: -14%;
     font-size: 20pt;
     border-color: black;
 }
-#video-02 {
-    margin-left: 100px;
-    text-align: justify;
-    height: 135px;
-    border-style: solid;
-    border-width: 3px;
-    width: 550px;
-    background-color:#f5ffd3;
-    color: black;
-    border-radius: 10px;
-    margin-left: 470px;
-    
-}
-#video-02-text {
-    margin-left: 140px;
-    margin-top: -80px;
-    font-size: 20pt;
-    border-color: black;
-}
+
 h9 {
     margin-left: 145px;
 }
 #video-04 {
     margin-left: 100px;
     text-align: justify;
-    height: 135px;
+    height: 9%;
     border-style: solid;
     border-width: 3px;
-    width: 550px;
+    width: 40%;
     background-color:#f5ffd3;
     color: black;
     border-radius: 10px;
-    margin-left: 470px;
+    margin-left: 30%;
     padding 20px;
     margin-bottom: 50px;
     
@@ -192,66 +174,66 @@ h9 {
 #video-05 {
     margin-left: 100px;
     text-align: justify;
-    height: 135px;
+    height: 9%;
     border-style: solid;
     border-width: 3px;
-    width: 550px;
+    width: 40%;
     background-color:#f5ffd3;
     color: black;
     border-radius: 10px;
-    margin-left: 470px;
+    margin-left: 30%;
     margin-bottom: 50px;
     
 }
 #video-04-text {
-    margin-left: 140px;
+    margin-left: 20%;
     margin-top: -80px;
     font-size: 20pt;
     border-color: black;
 }
 #video-05-text {
-    margin-left: 140px;
-    margin-top: -80px;
+    margin-left: 20%;
+    margin-top: -14%;
     font-size: 20pt;
     border-color: black;
 }
 #video-06 {
     margin-left: 100px;
     text-align: justify;
-    height: 135px;
+    height: 9%;
     border-style: solid;
     border-width: 3px;
-    width: 550px;
+    width: 40%;
     background-color:#f5ffd3;
     color: black;
     border-radius: 10px;
-    margin-left: 470px;
+    margin-left: 30%;
     
 }
 #video-06-text {
-    margin-left: 140px;
-    margin-top: -80px;
+    margin-left: 20%;
+    margin-top: -14%;
     font-size: 20pt;
     border-color: black;
 }
 #video-07 {
     margin-left: 100px;
     text-align: justify;
-    height: 135px;
+    height: 9%;
     border-style: solid;
     border-width: 3px;
-    width: 550px;
+    width: 40%;
     background-color:#f5ffd3;
     color: black;
     border-radius: 10px;
-    margin-left: 470px;
+    margin-left: 30%;
     margin-bottom: 50px;
     
 }
 #video-07-text {
-    margin-left: 140px;
-    margin-top: -80px;
-    font-size: 20pt;
+    margin-left: 20%;
+    margin-top: -14%;
+    font-size: 200%;
     border-color: black;
 }
 #bug-bs {

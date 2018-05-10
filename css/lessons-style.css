@@ -55,8 +55,8 @@ h3 {
 }
 
 #content {
-    height:750px;
     background-image: url(img/contact-bg.png);
+    height: 100%;
 }
 #another-bs {
     height:100px;
@@ -66,17 +66,17 @@ h3 {
     margin-left: 10px;
 }
 #another-bs {
-    height: 130px;
+    height: 10%;
 }
 #basics {
     text-align: center;
-    height: 220px;
-    width:300px;
+    height: 28%;
+    width:20%;
+    margin-left: 10%;
     background-image: url(img/basics.png);
-    background-size: 300px 200px;
-    margin-left: 100px;
+    background-size: 100% 100%;
     color: white;
-    font-size: 15pt;
+    font-size: 120%;
     float: left;
     border-radius: 25px;
     font-family: fantasy;
@@ -84,37 +84,36 @@ h3 {
 }
 #android {
     text-align: center;
-    height: 220px;
-    width:300px;
+    height: 28%;
+    width:20%;
     background-image: url(img/android.png);
-    background-size: 300px 220px;
-    margin-left: 100px;
+    background-size: 100% 100%;
+    margin-left: 10%;
     color: white;
-    font-size: 15pt;
+    font-size: 100%;
     float: left;
-    margin-left: 180px;
+
     font-family: fantasy;
     border-radius: 25px;
     
 }
 #dekstop-apps {
     text-align: center;
-    height: 220px;
-    width:300px;
+    height: 28%;
+    width:20%;
     background-image: url(img/dekstop.png);
-    background-size: 300px 220px;
-    margin-left: 100px;
+    background-size: 100% 100%;
+    margin-left: 10%;
     color: white;
-    font-size: 15pt;
+    font-size: 100%;
     float: left;
-    margin-left: 180px;
     font-family: fantasy;
     border-radius: 25px;
     
 }
 
 #bs-5 {
-    height:165px;
+    height:78%;
 }
 a:link {
     text-decoration: none;
@@ -134,10 +133,10 @@ a:active {
 
 }
 #bs-6 {
-    height: 85px;
+    height: 40%;
 }
 #bs-7 {
-    height: 52px;
+    height: 27.5%;
 }
 #lessons {
 	font-size: 30pt;
