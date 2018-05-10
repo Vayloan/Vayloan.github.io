@@ -70,7 +70,7 @@ h3 {
 }
 #basics {
     text-align: center;
-    height: 28%;
+    height: 30%;
     width:20%;
     margin-left: 10%;
     background-image: url(img/basics.png);
@@ -84,7 +84,7 @@ h3 {
 }
 #android {
     text-align: center;
-    height: 28%;
+    height: 30%;
     width:20%;
     background-image: url(img/android.png);
     background-size: 100% 100%;
@@ -99,7 +99,7 @@ h3 {
 }
 #dekstop-apps {
     text-align: center;
-    height: 28%;
+    height: 30%;
     width:20%;
     background-image: url(img/dekstop.png);
     background-size: 100% 100%;
@@ -113,7 +113,7 @@ h3 {
 }
 
 #bs-5 {
-    height:78%;
+    height:81%;
 }
 a:link {
     text-decoration: none;
